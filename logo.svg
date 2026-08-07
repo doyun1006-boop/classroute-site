@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="클래스루트 로고">
+  <title>클래스루트</title>
+  <desc>학원과 학원을 잇는 경로. 출발 정류장에서 도착 정류장까지 이어지는 노선이 C 자를 이룹니다.</desc>
+
+  <!-- 배경 -->
+  <rect width="512" height="512" rx="116" fill="#12241D"/>
+
+  <!-- 경로 (노선) -->
+  <path d="M350.7 154.7A138.6 138.6 0 1 0 350.7 357.3"
+        fill="none" stroke="#EEF1EC" stroke-width="60" stroke-linecap="round"/>
+
+  <!-- 출발 정류장 -->
+  <circle cx="350.7" cy="154.7" r="55" fill="#12241D" stroke="#EEF1EC" stroke-width="26"/>
+
+  <!-- 경유 정류장 -->
+  <circle cx="117.4" cy="256" r="31" fill="#12241D"/>
+  <circle cx="117.4" cy="256" r="15" fill="#EEF1EC"/>
+
+  <!-- 도착 정류장 -->
+  <circle cx="350.7" cy="357.3" r="62" fill="#FFC02E"/>
+</svg>
